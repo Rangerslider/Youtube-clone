@@ -1,2 +1,2 @@
 # Youtube-clone
-<a href="http://127.0.0.1:5500/youtube.html">Youtube-clone</a>
+<a href="https://nuri-nuri.netlify.app/">Youtube-clone</a>
