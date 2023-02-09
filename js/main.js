@@ -18,6 +18,3 @@ const showMenu = (headerToggle, navbarId) => {
     this.classList.add('active')
   }
   linkcolor.forEach(l => l.addEventListener('click', colorLink))
-
-  
- 
